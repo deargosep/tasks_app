@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787125914742",
+    "project_id": "tasks-app12",
+    "storage_bucket": "tasks-app12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787125914742:android:50b0844a1b65c99ba86357",
+        "android_client_info": {
+          "package_name": "com.deargo.tasks_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787125914742-39gcqman3ihvalqek0qsblcsl17neitb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIt7WzGKwARV5pqAqM_QmX4-pj0MPpro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787125914742-39gcqman3ihvalqek0qsblcsl17neitb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
